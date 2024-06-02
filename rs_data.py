@@ -1,72 +1,26 @@
 #!/usr/bin/env python
-import requests
 import json
 import time
-import bs4 as bs
 import datetime as dt
 import os
-import pandas_datareader.data as web
-import pickle
-import requests
-import yaml
 import yfinance as yf
 import pandas as pd
 import dateutil.relativedelta
 import numpy as np
-import re
 import rs_nasdaq_securities
-from ftplib import FTP
-from io import StringIO
-from time import sleep
 
+from rs_ticker_info import write_to_file
 from datetime import date
 from datetime import datetime
 
 DIR = os.path.dirname(os.path.realpath(__file__))
+PRICE_DATA_FILE = os.path.join(DIR, "data", "price_history.json")
+
 
 if not os.path.exists(os.path.join(DIR, "data")):
     os.makedirs(os.path.join(DIR, "data"))
 if not os.path.exists(os.path.join(DIR, "tmp")):
     os.makedirs(os.path.join(DIR, "tmp"))
-
-try:
-    with open(os.path.join(DIR, "config_private.yaml"), "r") as stream:
-        private_config = yaml.safe_load(stream)
-except FileNotFoundError:
-    private_config = None
-except yaml.YAMLError as exc:
-    print(exc)
-
-try:
-    with open("config.yaml", "r") as stream:
-        config = yaml.safe_load(stream)
-except FileNotFoundError:
-    config = None
-except yaml.YAMLError as exc:
-    print(exc)
-
-
-def cfg(key):
-    try:
-        return private_config[key]
-    except:
-        try:
-            return config[key]
-        except:
-            return None
-
-
-def read_json(json_file):
-    with open(json_file, "r", encoding="utf-8") as fp:
-        return json.load(fp)
-
-
-def write_to_file(dict, file):
-    with open(file, "w", encoding="utf8") as fp:
-        json.dump(dict, fp, ensure_ascii=False)
-
-
-PRICE_DATA_FILE = os.path.join(DIR, "data", "price_history.json")
 
 
 def write_price_history_file(tickers_dict):
