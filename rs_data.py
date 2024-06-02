@@ -23,10 +23,6 @@ if not os.path.exists(os.path.join(DIR, "tmp")):
     os.makedirs(os.path.join(DIR, "tmp"))
 
 
-def write_price_history_file(tickers_dict):
-    write_to_file(tickers_dict, PRICE_DATA_FILE)
-
-
 def enrich_ticker_data(ticker_response, security):
     ticker_response["sector"] = security["sector"]
     ticker_response["industry"] = security["industry"]
@@ -107,7 +103,7 @@ def load_prices_from_yahoo():
         load_price_history(security, tickers_dict, start_date, today)
         track_progress(load_times, start, time.time(), idx, security, securities)
 
-    write_price_history_file(tickers_dict)
+    write_to_file(tickers_dict, PRICE_DATA_FILE)
 
 
 def load_price_history(security, tickers_dict, start_date, end_date):
