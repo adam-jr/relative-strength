@@ -1,12 +1,12 @@
 ### Utilities - Regulated Water
 NYSE:ARIS
 
-### Utilities - Renewable
-NYSE:CWEN
-
 ### Utilities—Independent Power Producers
 NYSE:NRG
 
 ### Utilities—Regulated Electric
-NYSE:NEE, NYSE:PEG, NYSE:EIX, NYSE:SO, NYSE:DUK
+NYSE:EIX
+
+### Utilities—Regulated Water
+NYSE:SBS
 
