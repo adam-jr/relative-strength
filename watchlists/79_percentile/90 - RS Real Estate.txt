@@ -1,5 +1,5 @@
 ### REIT - Diversified
-NYSE:AAT
+NYSE:AAT, NYSE:BNL
 
 ### REIT - Healthcare Facilities
 NYSE:CTRE, NYSE:DOC
