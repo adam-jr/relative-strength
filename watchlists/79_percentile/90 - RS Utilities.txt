@@ -5,5 +5,8 @@ NYSE:ARIS
 NYSE:NRG
 
 ### Utilities—Regulated Electric
-NYSE:EIX
+NYSE:EIX, NYSE:NEE
+
+### Utilities—Regulated Gas
+NYSE:NI
 

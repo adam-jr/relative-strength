@@ -1,5 +1,5 @@
 ### Building Materials
-NASDAQ:USLM, NYSE:TGLS, NYSE:CRH, NYSE:KNF
+NASDAQ:USLM, NYSE:TGLS, NYSE:CRH
 
 ### Chemicals
 NYSE:VHI
