@@ -19,3 +19,6 @@ NYSE:SLVM
 ### Specialty Chemicals
 NYSE:PRM, NASDAQ:HWKN, NYSE:IFF, NYSE:SHW, NYSE:WTTR
 
+### Steel
+NASDAQ:USAP
+
