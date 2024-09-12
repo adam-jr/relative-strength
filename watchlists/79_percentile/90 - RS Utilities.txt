@@ -1,14 +1,17 @@
 ### Utilities - Regulated Electric
-NASDAQ:AEP, NYSE:ETR
+NASDAQ:AEP, NYSE:ETR, NYSE:CMS
+
+### Utilities - Regulated Gas
+NYSE:BIPC
 
 ### Utilities - Regulated Water
 NYSE:ARIS
 
 ### Utilities—Independent Power Producers
-NYSE:PAM
+NYSE:PAM, NYSE:TAC
 
 ### Utilities—Regulated Electric
-NYSE:EIX, NYSE:SO, NYSE:NEE, NYSE:DUK, NYSE:PEG, NYSE:PPL, NYSE:PNW, NYSE:D, NYSE:FE
+NYSE:NEE, NYSE:SO, NYSE:PEG, NYSE:DUK, NYSE:EIX, NYSE:PNW, NYSE:PPL, NYSE:D, NYSE:FE, NASDAQ:LNT
 
 ### Utilities—Regulated Gas
 NYSE:NI
