@@ -1,5 +1,5 @@
 ### Utilities - Regulated Electric
-NYSE:ETR, NASDAQ:AEP
+NYSE:ETR
 
 ### Utilities - Regulated Gas
 NYSE:BIPC
