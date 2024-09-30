@@ -1,5 +1,8 @@
+### Utilities - Diversified
+NYSE:BIP
+
 ### Utilities - Regulated Electric
-NYSE:ETR, NASDAQ:AEP
+NYSE:ETR, NASDAQ:AEP, NYSE:CMS
 
 ### Utilities - Regulated Gas
 NYSE:BIPC
@@ -11,10 +14,10 @@ NYSE:ARIS
 NYSE:CWEN
 
 ### Utilities—Independent Power Producers
-NYSE:TAC, NYSE:PAM
+NYSE:NRG, NYSE:TAC, NYSE:PAM, NYSE:KEN
 
 ### Utilities—Regulated Electric
-NYSE:EDN, NYSE:PEG, NYSE:NEE, NYSE:SO, NYSE:PPL, NYSE:EIX
+NYSE:EDN, NYSE:PEG, NYSE:NEE, NYSE:EIX, NYSE:SO, NYSE:D, NYSE:PPL, NASDAQ:MGEE, NASDAQ:LNT
 
 ### Utilities—Regulated Gas
 NYSE:NI
