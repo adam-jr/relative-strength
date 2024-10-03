@@ -1,5 +1,5 @@
 ### Utilities - Regulated Electric
-NYSE:ETR, NASDAQ:AEP
+NYSE:ETR, NASDAQ:AEP, NYSE:CMS
 
 ### Utilities - Regulated Gas
 NYSE:BIPC
@@ -14,7 +14,7 @@ NYSE:CWEN
 NYSE:NRG, NYSE:TAC, NYSE:PAM, NYSE:KEN
 
 ### Utilities—Regulated Electric
-NYSE:EDN, NYSE:PEG, NYSE:NEE, NYSE:EIX, NYSE:SO, NYSE:D
+NYSE:EDN, NYSE:PEG, NYSE:NEE, NYSE:SO, NYSE:EIX, NYSE:PPL, NASDAQ:MGEE, NYSE:D, NYSE:PNW, NASDAQ:LNT
 
 ### Utilities—Regulated Gas
 NYSE:NI
