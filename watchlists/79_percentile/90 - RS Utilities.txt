@@ -7,14 +7,11 @@ NYSE:BIPC
 ### Utilities - Regulated Water
 NYSE:ARIS
 
-### Utilities - Renewable
-NYSE:CWEN
-
 ### Utilities—Independent Power Producers
 NYSE:VST, NYSE:NRG, NYSE:TAC, NYSE:PAM
 
 ### Utilities—Regulated Electric
-NYSE:EDN, NYSE:PEG, NYSE:NEE, NYSE:EIX
+NYSE:PEG, NYSE:EDN, NYSE:NEE, NYSE:EIX
 
 ### Utilities—Regulated Gas
 NYSE:NI
