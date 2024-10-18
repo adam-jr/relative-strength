@@ -1,21 +1,18 @@
+### Utilities - Diversified
+NYSE:BIP
+
 ### Utilities - Regulated Electric
 NYSE:ETR
 
 ### Utilities - Regulated Gas
 NYSE:BIPC
 
-### Utilities - Regulated Water
-NYSE:ARIS
-
 ### Utilities - Renewable
-NASDAQ:CEG
+NASDAQ:CEG, NYSE:BEPC, NASDAQ:FLNC, NYSE:BEP
 
 ### Utilities—Independent Power Producers
-NYSE:VST, NYSE:NRG, NYSE:PAM, NYSE:TAC
+NYSE:VST, NYSE:NRG, NYSE:TAC, NYSE:PAM
 
 ### Utilities—Regulated Electric
-NYSE:EDN, NYSE:PEG, NYSE:NEE
-
-### Utilities—Renewable
-NASDAQ:WAVE
+NYSE:EDN, NYSE:PEG, NYSE:NEE, NYSE:D
 
