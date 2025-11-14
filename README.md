@@ -1,4 +1,4 @@
-# NOTE: I (adam-jr) made extensive changes on this fork. The below probably is no longer relevant.
+I've made extensive changes on this fork. The below probably is no longer relevant.
 ---
 
 # relative-strength
